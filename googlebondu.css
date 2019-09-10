@@ -1,0 +1,118 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+p
+{
+text-align: right
+}
+
+p
+{
+word-spacing: 20px
+}
+
+p
+{cursor: pointer;}
+
+p
+{
+  margin-right: 130px
+}
+
+p
+
+{
+margin-top: 20px
+}
+
+p
+{
+  align-self: auto;
+}
+
+
+:first
+{
+  text-align: left
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.google
+{
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+  padding-top: 150px;
+  padding-bottom: 10px;
+}
+
+.form {
+  text-align: center;
+}
+
+#form-search { 
+  width: 400px;
+  line-height: 40px;
+  padding: 25px 15px;
+}
+
+
+.buttons {
+  text-align: center;
+  padding-top: 10   px;
+  margin-bottom: 10px;
+}
+
+
+.langues {
+  text-align: center;
+  margin-bottom: 200px;
+}
+
+
+.buttonl {
+  border: none;
+  background-color: inherit;
+  padding: 1px 1px;
+  font-size: 16px;
+  cursor: pointer;
+  display: inline-block;
+  font-weight: italic;
+  color: blue ;
+}
+
+ .left
+ {
+   text-align: left
+ }
+
+ .left
+ {
+  word-spacing: 30px
+}
+
+.left
+{
+  margin-left: 20px
+}
+
+
+ .right
+ {
+   text-align: right
+ }
+
+ .right
+ {
+   word-spacing: 30px
+}
+
+.right
+{
+  margin-right: 20px
+}
